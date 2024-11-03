@@ -37,5 +37,9 @@
   "System.Threading.Tasks.Extensions": {
     "listed": false,
     "version": "4.4.0"
+  },
+  "VideoLibrary": {
+    "listed": true,
+    "version": "3.2.6"
   }
 }
