@@ -1141,6 +1141,10 @@
         "listed": true,
         "version": "0.2.0"
     },
+    "ModelContextProtocol": {
+        "listed": true,
+        "version": "0.1.0-preview.13"
+    },
     "MongoDB.Bson": {
         "listed": true,
         "version": "2.11.0"
